@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @geogimenez
+- 👋 Hi, I’m @geogimenez from Uruguay
 - 👀 I’m interested in QA testing
-- 🌱 I’m currently learning UX design
+- 🌱 I’m currently learning UX design|web dev
 - 💞️ I’m looking to collaborate on building an app
 - 📫 How to reach me : www.linkedin.com/in/georginagimenez
 - 😄 Pronouns: geo
